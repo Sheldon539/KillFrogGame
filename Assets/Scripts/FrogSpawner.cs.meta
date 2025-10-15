@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 52602cefd66f0f74cb6d17f43799e24b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - frogPrefab: {fileID: 5936368300902234676, guid: 3b2a6a875fd553846b839ba6f3a45faa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
